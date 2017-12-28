@@ -1,0 +1,70 @@
+03:48:41.321: [CC] System ClosedCaption - ON
+03:48:41.326: CloudPath:3.2.6.1 b.3.2.6.1
+03:48:41.327: CPC v.3.2.6.1
+03:48:41.327: Loading configuration... ( cloudpath_nbcd_ios_prod_release_gracenote_n4bfcinslip4ou2a9txj0q49wa4cpmghpn9nfa86 )
+03:48:46.417: Configuration loading: success
+03:48:46.426: Environment: live[nbcd_prod],vod[nbcd_prod]
+03:48:46.429: Chromecast AppId: D1CB7237
+03:48:46.431: Content Security Level: full
+03:48:46.433: Content Distribution setting: on-domain
+03:48:46.435: Content Distribution Partner setting: (null)
+03:48:52.522: RequestorId was successfully set
+03:49:32.752: ContentLoadStatus: CPContentLoadStatusReady
+03:49:32.812: New configuration key: cloudpath_nbcd_ios_prod_release_gracenote_n4bfcinslip4ou2a9txj0q49wa4cpmghpn9nfa86
+03:49:32.814: Chromecast AppId: D1CB7237
+03:49:32.816: Configuration loading: success
+03:49:32.822: Environment: live[nbcd_prod],vod[nbcd_prod]
+03:49:32.834: Content Security Level: full
+03:49:32.837: Content Distribution setting: on-domain
+03:49:32.838: Content Distribution Partner setting: (null)
+03:49:32.873: RequestorId was successfully set
+03:50:44.889: VOD ID: 3099592 NBC_ANV_3099592
+03:50:44.892: VOD Series: America's Got Talent
+03:50:44.894: VOD Season: 11
+03:50:44.897: VOD Episode Number: 23
+03:50:44.899: VOD Episode: The Clairvoyants and Jon Dorenbos: Live Performance feat. Paula Abdul
+03:50:44.900: VOD Rating: (null)
+03:50:51.083: ContentLoadStatus: CPContentLoadStatusReady
+03:50:53.856: ContentLoadStatus: CPContentLoadStatusReady
+03:51:00.227: ContentLoadStatus: CPContentLoadStatusPlayerReady
+03:51:00.250: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+03:51:04.883: CPPlaybackProgressObserver: CPPlaybackProgressBuffering
+03:51:07.440: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+03:51:10.979: CPPlaybackProgressObserver: CPPlaybackProgressBuffering
+03:51:04.786: CPAdObserver CPAdObserverAdPoints {
+    CPAdPositionsKey =     (
+        0
+    );
+}
+03:51:10.944: CPAdObserver CPAdObserverAdPoints {
+    CPAdPositionsKey =     (
+        0
+    );
+}
+03:51:27.175: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+03:51:27.194: CPAdObserver CPAdObserverAdBreak {
+    CPAdPodDurationKey = 15;
+    CPBreakTypeKey = CPAdBreakTypePreroll;
+    CPIsBeginKey = 1;
+    CPNumAdsKey = 1;
+}
+03:51:27.198: CPContentType: CPContentTypeAd
+03:51:30.977: CPAdObserver CPAdObserverAdBreakInstance {
+    CPAdDurationKey = 15;
+    CPAdIdKey = 19006949;
+    CPAdIndexKey = 1;
+    CPAdTrackingURLKey = "http://29773.s.fwmrm.net/ad/l/1?s=c027&n=169843%3B169843%3B10886%3B91559%3B93644%3B168234%3B171224%3B187827%3B188286%3B375524%3B375600%3B375613%3B375617%3B375620%3B376342%3B377624%3B378491%3B378678%3B378841%3B378901%3B379152%3B379536%3B382114%3B382283%3B382314%3B382315%3B384777&t=1496055068029344014&f=&r=169843&adid=19006949&reid=6743423&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=";
+    CPAdURLKey = "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&interactionsStr=45682248%7E%7E0%5EClick.Linear.296160019%7E0%7E1%7E1%7E0%7E0%7E296160020%7E0&pos=3757&ebRandom=3379263005359828399&dg=8235145&ta=-1&sessionid=4454906973641641158&rtu=$$https://www.thehersheycompany.com/en_us/products/product/easter-reeses-peanut-butter-cup-eggs-10-point-8-ounce.html$$";
+    CPBreakTypeKey = CPAdBreakTypePreroll;
+    CPIsBeginKey = 1;
+}
+03:51:30.984: CPContentType: CPContentTypeAd
+03:51:31.126: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+03:51:31.131: VOD Duration: 0.000000
+03:51:46.406: CPAdObserver CPAdObserverAdPoints {
+    CPAdPositionsKey =     (
+    );
+}
+03:51:46.492: PlaybackStatus: CPPlaybackStatusPlaying
+03:51:46.800: CPAdObserver CPAdObserverAdBreakInstanceEnded
+03:51:46.805: CPAdObserver CPAdObserverAdBreakEnded

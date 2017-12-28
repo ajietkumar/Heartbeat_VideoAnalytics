@@ -1,0 +1,151 @@
+12:17:29.089: [CC] System ClosedCaption - ON
+12:17:29.099: CloudPath:3.2.6.1 b.3.2.6.1
+12:17:29.103: CPC v.3.2.6.1
+12:17:29.103: Loading configuration... ( cloudpath_nbcd_ios_stage_adobeprod_fw_prod_gracenote_4nx3icg7weifijyyy4gfhtzlwn7irqznuohte6o1 )
+12:17:38.242: Configuration loading: success
+12:17:38.251: Environment: live[wnbcx_stage],vod[wnbcx_stage],adobe[prod],freewheel[prod]
+12:17:38.254: Chromecast AppId: D1CB7237
+12:17:38.256: Content Security Level: full
+12:17:38.259: Content Distribution setting: on-domain
+12:17:38.261: Content Distribution Partner setting: (null)
+12:17:45.245: RequestorId was successfully set
+12:18:24.469: ContentLoadStatus: CPContentLoadStatusReady
+12:18:24.523: New configuration key: cloudpath_nbcd_ios_prod_release_gracenote_n4bfcinslip4ou2a9txj0q49wa4cpmghpn9nfa86
+12:18:24.525: Chromecast AppId: D1CB7237
+12:18:24.526: Configuration loading: success
+12:18:24.528: Environment: live[nbcd_prod],vod[nbcd_prod]
+12:18:24.530: Content Security Level: full
+12:18:24.532: Content Distribution setting: on-domain
+12:18:24.534: Content Distribution Partner setting: (null)
+12:18:25.535: RequestorId was successfully set
+12:19:29.307: VOD ID: 3493042 NBCE_ANV_3493042
+12:19:29.312: VOD Series: Blindspot
+12:19:29.315: VOD Season: 2
+12:19:29.322: VOD Episode Number: 18
+12:19:29.325: VOD Episode: Senile Lines
+12:19:29.327: VOD Rating: tv-14
+12:19:35.428: ContentLoadStatus: CPContentLoadStatusReady
+12:19:39.162: ContentLoadStatus: CPContentLoadStatusReady
+12:19:45.098: ContentLoadStatus: CPContentLoadStatusPlayerReady
+12:19:45.189: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+12:19:53.387: CPPlaybackProgressObserver: CPPlaybackProgressBuffering
+12:19:54.661: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+12:20:01.720: CPPlaybackProgressObserver: CPPlaybackProgressBuffering
+12:19:53.304: CPAdObserver CPAdObserverAdPoints {
+    CPAdPositionsKey =     (
+        0,
+        "16.14488",
+        "35.4519",
+        "57.29987",
+        "72.13895",
+        "84.23692"
+    );
+}
+12:20:01.629: CPAdObserver CPAdObserverAdPoints {
+    CPAdPositionsKey =     (
+        0,
+        "16.14488",
+        "35.4519",
+        "57.29987",
+        "72.13895",
+        "84.23692"
+    );
+}
+12:20:16.934: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+12:20:16.943: CPAdObserver CPAdObserverAdBreak {
+    CPAdPodDurationKey = 30;
+    CPBreakTypeKey = CPAdBreakTypePreroll;
+    CPIsBeginKey = 1;
+    CPNumAdsKey = 1;
+}
+12:20:16.946: CPContentType: CPContentTypeAd
+12:20:21.599: CPAdObserver CPAdObserverAdBreakInstance {
+    CPAdDurationKey = 30;
+    CPAdIdKey = 17878096;
+    CPAdIndexKey = 1;
+    CPAdTrackingURLKey = "http://29773.s.fwmrm.net/ad/l/1?s=c025&n=169843%3B169843%3B10886%3B91559%3B93644%3B168234%3B171224%3B187827%3B188286%3B375524%3B375600%3B375613%3B375617%3B375620%3B376342%3B377624%3B378491%3B378678%3B378841%3B378901%3B379152%3B379536%3B382114%3B382283%3B382314%3B382315%3B384777&t=1496171995133602006&f=&r=169843&adid=17878096&reid=6402949&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=";
+    CPAdURLKey = "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsttrd4jnxZK7VeNMLEGBdkmLn9oaaGGFjXtu86GKx_WtOA3n1xkrAiOjOmgAb-IF0puu6a8Epg&sig=Cg0ArKJSzO14EpfZBGZAEAE&urlfix=1&adurl=https://www.geico.com/landingpage/go390/%3Fsoa%3D88201%26zip%3D%26dclid%3D%25edclid!";
+    CPBreakTypeKey = CPAdBreakTypePreroll;
+    CPIsBeginKey = 1;
+}
+12:20:21.604: CPContentType: CPContentTypeAd
+12:20:21.649: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+12:20:21.651: VOD Duration: 0.000000
+12:20:52.020: CPAdObserver CPAdObserverAdPoints {
+    CPAdPositionsKey =     (
+        "16.14488",
+        "35.4519",
+        "57.29987",
+        "72.13895",
+        "84.23692"
+    );
+}
+12:20:52.086: PlaybackStatus: CPPlaybackStatusPlaying
+12:20:52.415: CPAdObserver CPAdObserverAdBreakInstanceEnded
+12:20:52.418: CPAdObserver CPAdObserverAdBreakEnded
+12:22:06.316: Skipping to 415.0
+12:22:06.344: PlaybackStatus: CPPlaybackStatusSeeking
+12:22:06.445: CPPlaybackProgressObserver: CPPlaybackProgressBuffering
+12:22:25.944: CPPlaybackProgressObserver: CPPlaybackProgressStarted
+12:22:25.946: VOD Duration: 2595.000000
+12:22:25.948: PlaybackStatus: CPPlaybackStatusPlaying
+12:22:30.245: CPAdObserver CPAdObserverAdBreak {
+    CPAdPodDurationKey = 120;
+    CPBreakTypeKey = CPAdBreakTypeMidroll;
+    CPIsBeginKey = 1;
+    CPNumAdsKey = 4;
+}
+12:22:30.248: CPContentType: CPContentTypeAd
+12:22:34.278: CPAdObserver CPAdObserverAdBreakInstance {
+    CPAdDurationKey = 60;
+    CPAdIdKey = 18828917;
+    CPAdIndexKey = 1;
+    CPAdTrackingURLKey = "http://29773.s.fwmrm.net/ad/l/1?s=c025&n=169843%3B169843%3B10886%3B91559%3B93644%3B168234%3B171224%3B187827%3B188286%3B375524%3B375600%3B375613%3B375617%3B375620%3B376342%3B377624%3B378491%3B378678%3B378841%3B378901%3B379152%3B379536%3B382114%3B382283%3B382314%3B382315%3B384777&t=1496171995133602006&f=&r=169843&adid=18828917&reid=6887149&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=427&cr=";
+    CPAdURLKey = "https://service.innovid.com/vclk/index.php?project_hash=1ho9j6&client_id=2484&video_id=187094&channel_id=433978&publisher_id=12&placement_tag_id=0&project_state=2&r=1496171996464&placement_hash=1i54a9&device_id=&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN3148.NBCUniversal%2FB11178251.149066241%3Bdc_trk_aid%3D321451751%3Bdc_trk_cid%3D81790751%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D";
+    CPBreakTypeKey = CPAdBreakTypeMidroll;
+    CPIsBeginKey = 1;
+}
+12:22:34.281: CPContentType: CPContentTypeAd
+12:23:30.709: CPAdObserver CPAdObserverAdBreakInstanceEnded
+12:23:30.711: CPAdObserver CPAdObserverAdBreakInstance {
+    CPAdDurationKey = 30;
+    CPAdIdKey = 17878098;
+    CPAdIndexKey = 2;
+    CPAdTrackingURLKey = "http://29773.s.fwmrm.net/ad/l/1?s=c025&n=169843%3B169843%3B10886%3B91559%3B93644%3B168234%3B171224%3B187827%3B188286%3B375524%3B375600%3B375613%3B375617%3B375620%3B376342%3B377624%3B378491%3B378678%3B378841%3B378901%3B379152%3B379536%3B382114%3B382283%3B382314%3B382315%3B384777&t=1496171995133602006&f=&r=169843&adid=17878098&reid=6402949&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=427&cr=";
+    CPAdURLKey = "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssTvP0ietDXZ_BzvVMwkgr16CFBKS2KwOpGM-7YC_vS82N6qU2lj47K7AVdkRl3xH71UthE-vk&sig=Cg0ArKJSzPCeJ-HhhVhLEAE&urlfix=1&adurl=https://www.geico.com/landingpage/go390/%3Fsoa%3D88201%26zip%3D%26dclid%3D%25edclid!";
+    CPBreakTypeKey = CPAdBreakTypeMidroll;
+    CPIsBeginKey = 1;
+}
+12:23:30.713: CPContentType: CPContentTypeAd
+12:24:00.902: CPAdObserver CPAdObserverAdBreakInstanceEnded
+12:24:00.905: CPAdObserver CPAdObserverAdBreakInstance {
+    CPAdDurationKey = 15;
+    CPAdIdKey = 19291317;
+    CPAdIndexKey = 3;
+    CPAdTrackingURLKey = "http://29773.s.fwmrm.net/ad/l/1?s=c025&n=169843%3B169843%3B10886%3B91559%3B93644%3B168234%3B171224%3B187827%3B188286%3B375524%3B375600%3B375613%3B375617%3B375620%3B376342%3B377624%3B378491%3B378678%3B378841%3B378901%3B379152%3B379536%3B382114%3B382283%3B382314%3B382315%3B384777&t=1496171995133602006&f=&r=169843&adid=19291317&reid=7012267&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=427&cr=";
+    CPAdURLKey = "https://service.innovid.com/vclk/index.php?project_hash=1hmm6f&client_id=2779&video_id=203024&channel_id=453013&publisher_id=12&placement_tag_id=0&project_state=2&r=1496171997155&placement_hash=1i8sn2&device_id=&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F319939049%3B150686863%3Bz";
+    CPBreakTypeKey = CPAdBreakTypeMidroll;
+    CPIsBeginKey = 1;
+}
+12:24:00.909: CPContentType: CPContentTypeAd
+12:24:15.883: CPAdObserver CPAdObserverAdBreakInstanceEnded
+12:24:15.885: CPAdObserver CPAdObserverAdBreakInstance {
+    CPAdDurationKey = 15;
+    CPAdIdKey = 19289888;
+    CPAdIndexKey = 4;
+    CPAdURLKey = "http://29773.s.fwmrm.net/ad/l/1?s=c025&n=169843%3B169843%3B10886%3B91559%3B93644%3B168234%3B171224%3B187827%3B188286%3B375524%3B375600%3B375613%3B375617%3B375620%3B376342%3B377624%3B378491%3B378678%3B378841%3B378901%3B379152%3B379536%3B382114%3B382283%3B382314%3B382315%3B384777&t=1496171995133602006&f=&r=169843%3B378678&adid=19289888&reid=7133616&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=427&cr=http%3A//www.nbc.com/american-ninja-warrior";
+    CPBreakTypeKey = CPAdBreakTypeMidroll;
+    CPIsBeginKey = 1;
+}
+12:24:15.887: CPContentType: CPContentTypeAd
+12:24:31.017: CPAdObserver CPAdObserverAdPoints {
+    CPAdPositionsKey =     (
+        "35.4519",
+        "57.29987",
+        "72.13895",
+        "84.23692"
+    );
+}
+12:24:31.067: PlaybackStatus: CPPlaybackStatusPlaying
+12:24:31.617: CPAdObserver CPAdObserverAdBreakInstanceEnded
+12:24:31.622: CPAdObserver CPAdObserverAdBreakEnded

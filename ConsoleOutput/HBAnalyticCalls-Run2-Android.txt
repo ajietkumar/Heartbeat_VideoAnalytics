@@ -1,0 +1,57 @@
+CloudPath Demo
+9:59:49 AM : Loading NBCD_ANDROID_CONVIVA_NIELSON_PROD
+9:59:49 AM : Cloudpath Version : 3.2.11
+9:59:56 AM : CONFIG LOADED SUCCESSFULLY
+9:59:59 AM : CPChromecastState : CPChromecastStateDisconnected
+
+10:00:02 AM : Content Security Level : CPContentSecurityLevelFull
+10:00:10 AM : CPPlaybackStatus : CPPlaybackStatusStopped
+
+10:00:10 AM : CPContentLoadStatus : CPContentLoadStatusUnknown
+
+10:00:31 AM : data : {mediaMetadata=CPMediaItem{trickPlayURL='', externalURL='null', fullEpisode=false, entitlement='free', externalAdvertiseId='NBC_ANV_3099592', subrating='', rating='null', guid='3099592', title='The Clairvoyants and Jon Dorenbos: Live Performance feat. Paula Abdul'}}
+10:00:31 AM : CPContentLoadStatus : CPContentLoadStatusMediaMetadata
+
+10:00:32 AM : CPContentLoadStatus : CPContentLoadStatusUnknown
+
+10:00:36 AM : Anvato Android SDK/4.1.30
+10:00:36 AM : CPContentLoadStatus : CPContentLoadStatusReady
+
+10:00:41 AM : CPContentLoadStatus : CPContentLoadStatusPlayerReady
+
+10:00:58 AM : adPoints : [0.0]
+10:00:58 AM : CPContentType : CPContentTypeAds
+
+10:00:58 AM : CPAdObserver : CPAdObserverAdBreak
+10:00:58 AM : data : {CPAdBreakTypeKey=CPAdBreakTypePreroll, CPAdPodDurationKey=15, CPNumAdsKey=1}
+
+10:00:58 AM : CPAdObserver : CPAdObserverAdBreakInstance
+10:00:58 AM : data : {CPAdURL=https://service.innovid.com/vclk/index.php?project_hash=1hmg22&client_id=3218&video_id=199180&channel_id=430622&publisher_id=12&placement_tag_id=0&project_state=2&r=1496158405991&placement_hash=1i9kns&device_id=&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN2998.nbc.com%2FB11177907.149087832%3Bdc_trk_aid%3D320149715%3Bdc_trk_cid%3D82505665%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D, CPADTrackingURL=http://29773.s.fwmrm.net/ad/l/1?s=f026&n=169843%3B169843%3B10886%3B91559%3B93644%3B168234%3B171224%3B187827%3B188286%3B375524%3B375600%3B375613%3B375617%3B375620%3B376342%3B377624%3B378491%3B378678%3B378841%3B378901%3B379152%3B379536%3B382114%3B382283%3B382314%3B382315%3B384777&t=1496158405708230005&f=&r=169843&adid=18915084&reid=6905527&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=, CPAdBreakTypeKey=CPAdBreakTypePreroll, CPAdDurationKey=15, CPIsBeginKey=true, CPAdIndexKey=1, CPAdIdKey=18915084}
+
+10:01:01 AM : data : {CPBitrate=4542}
+10:01:01 AM : CPPlaybackProgressObserver : CPPlaybackProgressObserverBitrateChanged
+
+10:01:12 AM : CPPlaybackProgressObserver : CPPlaybackProgressObserverBuffering
+
+10:01:13 AM : data : {CPBitrate=1392}
+10:01:13 AM : CPPlaybackProgressObserver : CPPlaybackProgressObserverBitrateChanged
+
+10:01:18 AM : data : {CPBitrate=552}
+10:01:18 AM : CPPlaybackProgressObserver : CPPlaybackProgressObserverBitrateChanged
+
+10:01:19 AM : CPPlaybackProgressObserver : CPPlaybackProgressObserverStarted
+
+10:01:28 AM : adPoints : []
+10:01:28 AM : CPAdObserver : CPAdObserverAdBreakEnded
+
+10:01:28 AM : CPAdObserver : CPAdObserverAdBreakInstanceEnded
+
+10:01:28 AM : CPContentType : CPContentTypeMaster
+
+10:01:28 AM : CPPlaybackStatus : CPPlaybackStatusPlaying
+
+10:01:35 AM : data : {CPBitrate=1392}
+10:01:35 AM : CPPlaybackProgressObserver : CPPlaybackProgressObserverBitrateChanged
+
+10:02:44 AM : data : {CPBitrate=2022}
+10:02:44 AM : CPPlaybackProgressObserver : CPPlaybackProgressObserverBitrateChanged
